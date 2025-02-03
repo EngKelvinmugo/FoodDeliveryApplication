@@ -1,5 +1,5 @@
 # Food-Delivery-App
-I have Created a Food-delivery-app using React-Native &amp; Redux &amp; Expo.
+I have Created a Food-delivery- mobile app using React-Native &amp; Redux &amp; Expo.
 Developed and launched a React Native food delivery app from concept to production, collaborating closely to define requirements, design UI/UX interfaces, and implement key features.
 Created Home Screen , Restaurant Screen , Dishes , Delivery Screen , And a Loading Screen.
 Used Tailwind CSS for styling & Redux to setup the store.
